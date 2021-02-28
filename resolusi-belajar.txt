@@ -13,6 +13,5 @@ resolusi belajar untuk kedepannya
     - php
     - codeigniter
     - laravel
-  mengatur-waktu belajar
 
 (keep learning)

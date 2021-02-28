@@ -13,7 +13,6 @@ resolusi belajar untuk kedepannya
     - php
     - codeigniter
     - laravel
-  library-js
-    - MERN
-    
+  mengatur-waktu belajar
+
 (keep learning)

@@ -11,6 +11,8 @@ resolusi belajar untuk kedepannya
     - mongodb
   backend
     - php
+    - codeigniter
+    - laravel
   library-js
     - MERN
     

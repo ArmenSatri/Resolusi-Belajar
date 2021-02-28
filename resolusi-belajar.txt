@@ -1,0 +1,17 @@
+resolusi belajar untuk kedepannya
+  frontend
+    - html
+    - css
+    - js
+  framework
+    - bootstrap
+    - sass
+  dbms
+    - mysql
+    - mongodb
+  backend
+    - php
+  library-js
+    - MERN
+    
+(keep learning)

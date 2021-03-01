@@ -1,0 +1,6 @@
+Reperensi belajar
+  - video / youtube
+  - text
+  - pdf
+  - khursus online
+  - freeCodeCamp

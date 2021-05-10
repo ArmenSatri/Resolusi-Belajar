@@ -3,15 +3,11 @@ resolusi belajar untuk kedepannya
     - html
     - css
     - js
-  framework
-    - bootstrap
-    - sass
-  dbms
-    - mysql
-    - mongodb
-  backend
-    - php
-    - codeigniter
-    - laravel
+      - basic
+      - dom
+      - api / ajax
+      - Es6 + modul js
+      - js modern
+  
 
 (keep learning)

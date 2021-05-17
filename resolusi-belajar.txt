@@ -1,13 +1,43 @@
 resolusi belajar untuk kedepannya
   frontend
-    - html
-    - css
-    - js
-      - basic
-      - dom
-      - api / ajax
-      - Es6 + modul js
-      - js modern
-  
+    1. html
+    
+    2. css
+        (basic, float, position display, box model, css grid, flex box)
+    
+    3. js
+        (basic, dom, api/ajax, Es6 + modul js, js modern)
+    
+    4. vcs
+        (basic, repo hosting, github)
+    
+    5. package manager
+        (nmp, yarn)
+    
+    6. css preposessor
+        (sass)
+    
+    7. build tools
+        (task rinning => npm script),(linter & formatters => prettier dan ESlint)
+    
+    8. modul bundlers
+        (webpack)
+    
+    9. pick a framework
+        ( - react.js
+            - redux)
+    
+    10. css framework
+        (bootstrap, talwin css, material UI)
+    
+    11. server side rendering
+        (-react.js
+           - next.js)
+    
+    12. mobile app
+        (react native)
+    
+    13. dekstop app
+        (electron)
 
 (keep learning)
